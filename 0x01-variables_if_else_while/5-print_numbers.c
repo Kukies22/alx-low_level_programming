@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
   *main: Entry - point
-  *Description: 'print numbers of base 10 starting from 0'
+  *Description: 'print numbers of base 10'
   *Return: always 0
   */
 int main(void)
