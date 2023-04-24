@@ -1,9 +1,10 @@
 #include <stdio.h>
 /**
   *main - Entry point
-  *Description: 'print numbers in base 16 in lowercase'
+  *Description: 'print numbers in base 16'
   *Return: always 0
   */
+
 int main(void)
 {
 	int n;
@@ -13,10 +14,11 @@ int main(void)
 	{
 		putchar(n);
 	}
-	for (n = 97; n <= 102; n++)
+	for (m = 97; m <= 102; m++)
 	{
 		putchar(m);
 	}
 	putchar('\n');
 	return (0);
 }
+
